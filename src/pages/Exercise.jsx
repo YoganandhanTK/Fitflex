@@ -23,7 +23,7 @@ const Exercise = () => {
         method: 'GET',
         url: `https://exercisedb.p.rapidapi.com/exercises/exercise/${id}`,
         headers: {
-          'X-RapidAPI-Key': '3ba6f24f5amsh552f892d3c4fec0p1a5a25jsnbe7bc57e8bd7',
+          'X-RapidAPI-Key': '334036bf59mshf4d431f3f4bb597p1bd651jsn1a9389d4954b',
           'X-RapidAPI-Host': 'exercisedb.p.rapidapi.com'
       }
     };
@@ -54,7 +54,7 @@ const Exercise = () => {
         sort: 'r'
       },
       headers: {
-        'X-RapidAPI-Key': '3ba6f24f5amsh552f892d3c4fec0p1a5a25jsnbe7bc57e8bd7',
+        'X-RapidAPI-Key': '334036bf59mshf4d431f3f4bb597p1bd651jsn1a9389d4954b',
         'X-RapidAPI-Host': 'youtube-search-and-download.p.rapidapi.com'
       }
     };
